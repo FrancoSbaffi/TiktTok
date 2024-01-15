@@ -21,11 +21,11 @@
 
 ## Stack
 
-- **HTML** - Standard markup language for documents designed to be displayed in a web browser.
-- **CSS** - Style language used to describe the presentation of a document written in HTML.
-- **JavaScript** - High-level, interpreted programming language.
-- **Fonts** - I use various fonts in my projects, including:
-  - [**Plus Jakarta Sans**](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
+- [**Vue**](https://vuejs.org/) - A progressive JavaScript framework for building user interfaces.
+- [**Nuxt 3**](https://v3.nuxtjs.org/) - The latest version of the Nuxt.js framework for building Vue.js applications.
+- [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
+- [**Laravel**](https://laravel.com/) - A PHP web application framework with an elegant syntax and powerful features.
+
 
 ##  License
 
