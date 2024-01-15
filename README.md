@@ -28,24 +28,26 @@
 
 ## NOTE
 
-### For this Tiktok Clone to work you'll need the API/Backend:
+### To make this TikTok Clone work, you'll need the API/Backend:
 
 Tiktok Clone API: https://github.com/John-Weeks-Dev/tiktok-clone-api
 
-## App Setup
+## Setup for the App
 
 ```
+
 git clone https://github.com/John-Weeks-Dev/tiktok-clone.git
 
 npm i
 
 npm run dev
+
 ```
-Inside Plugins/axios.js make sure the baseUrl is the same as your API.
+Inside Plugins/axios.js, ensure that the baseUrl matches your API.
 
 <img width="443" alt="Screenshot 2023-03-15 at 00 14 21" src="https://user-images.githubusercontent.com/108229029/225085615-529afbca-8cb8-4ed4-bf5b-54ba6f827f36.png">
 
-You should be good to go!
+You should be ready to proceed!
 
 ##  License
 
