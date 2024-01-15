@@ -26,29 +26,6 @@
 - [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
 - [**Laravel**](https://laravel.com/) - A PHP web application framework with an elegant syntax and powerful features.
 
-## NOTE
-
-### To make this TikTok Clone work, you'll need the API/Backend:
-
-Tiktok Clone API: https://github.com/John-Weeks-Dev/tiktok-clone-api
-
-## Setup for the App
-
-```
-
-git clone https://github.com/John-Weeks-Dev/tiktok-clone.git
-
-npm i
-
-npm run dev
-
-```
-Inside Plugins/axios.js, ensure that the baseUrl matches your API.
-
-<img width="443" alt="Screenshot 2023-03-15 at 00 14 21" src="https://user-images.githubusercontent.com/108229029/225085615-529afbca-8cb8-4ed4-bf5b-54ba6f827f36.png">
-
-You should be ready to proceed!
-
 ##  License
 
 [MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
