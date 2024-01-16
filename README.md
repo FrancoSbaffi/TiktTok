@@ -26,6 +26,4 @@
 - [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
 - [**Laravel**](https://laravel.com/) - A PHP web application framework with an elegant syntax and powerful features.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
